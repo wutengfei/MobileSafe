@@ -15,7 +15,6 @@ import cn.cnu.mobilesafe.service.LockScreenService;
 
 /**
  * 拦截短信
- *
  * @author Fly Wu
  */
 public class SmsReceiver extends BroadcastReceiver {
